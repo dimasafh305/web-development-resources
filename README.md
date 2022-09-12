@@ -294,7 +294,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [kudvenkat](https://www.youtube.com/user/kudvenkat)                           |
 | [Program With Erik](https://www.youtube.com/c/ProgramWithErik)                |
 | [Coder Coder](https://www.youtube.com/c/TheCoderCoder)                        |
-| [clever programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ) |
 | [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)             |
 | [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ)     |
 | [Wes Bos](https://www.youtube.com/wesbos)                                     |
